@@ -6,4 +6,12 @@
  * @module constants
  */
 
-
+/**
+ * Pomodoro Configuration constants
+ */
+export {
+  POMODORO_CONFIG_DEFAULTS,
+  POMODORO_CONFIG_LIMITS,
+  type PomodoroConfigDefaultsType,
+  type PomodoroConfigLimitsType,
+} from './pomodoroConfig';

@@ -6,4 +6,7 @@
  * @module instances
  */
 
-
+/**
+ * Pomodoro Configuration instances
+ */
+export { pomodoroConfigStore, type PomodoroConfigRecord } from './pomodoroConfig';

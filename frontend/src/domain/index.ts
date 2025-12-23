@@ -1,2 +1,2 @@
 // Domain modules export
-export {};
+export * as pomodoroConfig from './pomodoroConfig/_module';
